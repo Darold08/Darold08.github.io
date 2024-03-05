@@ -2,9 +2,9 @@ h2 {color: black;
 
 }
 
-body{background-color: rgb(179, 140, 224);
+body{background-color: rgb(213, 219, 255);
     margin: 0;
-    border: 7px solid rgb(240, 235, 235);
+    border: 7px solid rgb(60, 145, 255);
     height: 100vh;
 }
 
@@ -18,12 +18,11 @@ li {
 
 img{width: 400px;
 height: 300px;
-border: 5px solid rgb(105, 89, 89);
+border: 6px solid rgb(190, 210, 255);
 border-radius: 20px;
-padding: 5px;
 }
 
-h1{background-color: rgb(140, 61, 214);};
+h1{background-color: rgb(167, 191, 255);};
 
 
 

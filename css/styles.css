@@ -1,8 +1,10 @@
-h2 {color: black;
+h2 {
+    color: black;
 
 }
 
-body{background-color: rgb(213, 219, 255);
+body {
+    background-color: rgb(213, 219, 255);
     margin: 0;
     border: 7px solid rgb(60, 145, 255);
     height: 100vh;
@@ -11,20 +13,23 @@ body{background-color: rgb(213, 219, 255);
 * {
     text-align: center;
 }
+
 li {
     width: fit-content;
     margin: auto;
 }
 
-img{width: 400px;
-height: 300px;
-border: 6px solid rgb(190, 210, 255);
-border-radius: 20px;
+img {
+    width: 400px;
+    height: 300px;
+    border: 6px solid rgb(190, 210, 255);
+    border-radius: 20px;
 }
 
-h1{background-color: rgb(167, 191, 255);};
+h1 {
+    background-color: rgb(167, 191, 255);
+}
 
-
-
-
-
+div {
+    margin: 20px;
+}

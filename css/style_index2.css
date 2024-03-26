@@ -41,7 +41,6 @@ div {
 
 a{
     text-decoration: none;
-    color: aliceblue ;
 }
 
 a:hover{
@@ -51,7 +50,15 @@ a:hover{
 
 
 #Voltar {
-    position: fixed;
-    bottom: 0;
+    position: absolute;
+    bottom: 20px;
     left: 0;
+}
+
+header{
+    width: 200px;
+    height: 100%;
+    position: fixed;
+    left: 0;
+    background-color: rgb(110, 138, 230);
 }

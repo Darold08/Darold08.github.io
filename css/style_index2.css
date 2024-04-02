@@ -22,6 +22,7 @@ body {
 li {
     width: fit-content;
     margin: auto;
+    margin-left: 830px;
 }
 
 img {
@@ -60,5 +61,22 @@ header{
     height: 100%;
     position: fixed;
     left: 0;
+    top: 0;
     background-color: rgb(110, 138, 230);
+}
+
+
+.ul_3{
+    padding: 30px;
+    list-style-type: none;
+} 
+
+.ancora{
+    list-style-type: none;
+    margin-left: 0;
+    text-align: left;
+}
+
+main{
+    text-align: center;
 }

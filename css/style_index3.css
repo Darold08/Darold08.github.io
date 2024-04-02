@@ -8,16 +8,18 @@ body {
     margin: 0;
     border: 7px solid rgb(60, 145, 255);
     height: 100vh;
+    
+}
+main{
+    text-align: center;
 }
 
-* {
-     text-align: center;
-}
-
-li {
+ li {
     width: fit-content;
-    margin: auto;
+    margin: auto; 
+    margin-left: 770px;
 }
+
 
 img {
     width: 400px;
@@ -49,10 +51,18 @@ header{
     height: 100%;
     position: fixed;
     left: 0;
+    top: 0;
     background-color: rgb(110, 138, 230);
 }
-
 .ul_3{
     padding: 30px;
+    list-style-type: none;
+} 
+
+.ancora{
+    list-style-type: none;
+    margin-left: 0;
 }
+
+
 

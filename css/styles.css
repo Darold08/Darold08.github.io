@@ -17,6 +17,8 @@ body {
 li {
     width: fit-content;
     margin: auto;
+    margin-left: 750px;
+
 }
 
 img {
@@ -44,6 +46,7 @@ header{
     height: 100%;
     position: fixed;
     left: 0;
+    top: 0;
     background-color: rgb(110, 138, 230);
 }
 
@@ -52,4 +55,14 @@ header{
     position: absolute;
     bottom: 20px;
     left: 0;
+}
+
+.ul_3{
+    padding: 30px;
+    list-style-type: none;
+} 
+
+.ancora{
+    list-style-type: none;
+    margin-left: 0;
 }

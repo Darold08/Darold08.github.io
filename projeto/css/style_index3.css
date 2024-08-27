@@ -1,0 +1,68 @@
+h2 {
+    color: black;
+
+}
+
+body {
+    background-color: rgb(213, 219, 255);
+    margin: 0;
+    border: 7px solid rgb(60, 145, 255);
+    height: 100vh;
+    
+}
+main{
+    text-align: center;
+}
+
+ li {
+    width: fit-content;
+    margin: auto; 
+    margin-left: 770px;
+}
+
+
+img {
+    width: 400px;
+    height: 300px;
+    border: 6px solid rgb(190, 210, 255);
+    border-radius: 20px;
+}
+
+h1 {
+    background-color: rgb(167, 191, 255);
+}
+
+div {
+    margin: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+
+#Voltar {
+    position: absolute;
+    bottom: 20px;
+    left: 0; 
+ }
+
+header{
+    width: 200px;
+    height: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    background-color: rgb(110, 138, 230);
+}
+.ul_3{
+    padding: 30px;
+    list-style-type: none;
+} 
+
+.ancora{
+    list-style-type: none;
+    margin-left: 0;
+}
+
+
+

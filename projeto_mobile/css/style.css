@@ -1,0 +1,169 @@
+h2 {
+    color: black;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+}
+html {
+    height: 100%;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+body {
+    /* position: absolute; */
+    /* right: 0; */
+    background-color: rgb(213, 219, 255);
+    margin: 0;
+    /* margin-left: 150px; */
+    /*border-bottom: none;*/
+    min-height: calc(100% - 14px);
+    /* width: calc (100% - 14px); */
+    /* width: calc(100% - 14px); */
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+    /* flex-direction: row; */
+}
+main{
+    /* position: absolute; */
+    right: 0;
+    text-align: center;
+    height: 100%;
+    /* min-width: 67vw; */
+    /* width: calc(87vw - 14px); */
+    margin-left: 15vw;
+    width: calc(100% - 15vw - 14px);
+    /* margin-left: 33vw;     */
+    flex-wrap: wrap;
+    flex-direction: row;
+    /* margin: auto; */
+    /* margin-left: calc(100vw - 67vw); */
+    border: 7px solid rgb(60, 145, 255);
+    /* width: calc(100vw -14px); */
+
+}
+
+
+li {
+    width: fit-content;
+    margin: auto; 
+    /*margin-left: 690px;*/
+    flex-wrap: wrap;
+    flex-direction: row;
+
+}
+
+.meio {
+    text-align: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+    border: 6px solid rgb(190, 210, 255);
+    border-radius: 20px;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+h1 {
+    background-color: rgb(167, 191, 255);
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+div {
+    margin: 20px;
+    /* display: flex;
+    flex-wrap: wrap;
+    flex-direction: row; */
+}
+
+a{
+    text-decoration: none;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+
+#Voltar {
+    position: absolute;
+    bottom: 20px;
+    left: 0; 
+    flex-wrap: wrap;
+    flex-direction: row;
+ }
+
+.ul_3{
+    padding: 1vw;
+    list-style-type: none;
+    flex-wrap: wrap;
+    flex-direction: row;
+} 
+
+.ancora{
+    list-style-type: none;
+    margin-left: 0;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+#min{
+    min-width: 180px;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.receita {
+    align-items:center;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.title {
+    width: 100%;
+    text-align: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.div_cards {
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.div-1{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.div-2{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+@media (max-width: 700px) {
+    main{
+    /* position: absolute; */
+    right: 0;
+    text-align: center;
+    /* min-width: 67vw; */
+    /* width: calc(87vw - 14px); */
+    margin-left: 100px;
+    width: calc(100% - 100px - 14px);
+    /* margin-left: 33vw;     */
+    flex-wrap: wrap;
+    flex-direction: row;
+    /* margin: auto; */
+    /* margin-left: calc(100vw - 67vw); */
+    border: 7px solid rgb(60, 145, 255);
+    /* width: calc(100vw -14px); */
+    }
+}

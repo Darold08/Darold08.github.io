@@ -2,13 +2,13 @@ body{
     background-color: rgb(131, 117, 143);
 }
 
-h1{
+/*h1{
     color: aliceblue;
-}
+}*/
 
 .clicar{
     text-decoration: none;
-    color: #ffffff;
+    color: #000000;
     margin-left: 30px;
     margin-bottom: 15px;
 }
@@ -39,5 +39,5 @@ h1{
 }
 
 .começo{
-    
+
 }

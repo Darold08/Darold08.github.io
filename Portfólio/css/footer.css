@@ -34,7 +34,7 @@
     position: relative;
     bottom: 0px;
     width: 100%;
-    margin-top: 300px;
+    margin-top: 60%;
   }
   .footer1 p {
     margin: 0; 
@@ -54,7 +54,7 @@
 @media(max-width:1025px){
   .footer{
     width: 100%; 
-    margin-top: 100%;
+    margin-top: 20%;
     position: relative;
     z-index: 10;
   }
@@ -64,7 +64,6 @@
   .footer1{
     width: 100%; 
     margin-top: 100%;
-    position: relative;
     z-index: 10;
   }
   .footer1>p{

@@ -83,7 +83,15 @@ margin-left: 25px;
   border-radius: 30px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.8);
   margin-left: 850px;
-  margin-top: 130px;
+}
+.sobre_img{
+  margin-top:160% ;
+}
+.texto{
+  margin-top: -120%;
+}
+.esq{
+  margin-top: 11%;
 }
 
 .contact-form {

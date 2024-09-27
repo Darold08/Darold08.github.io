@@ -17,7 +17,8 @@ const titulo = document.querySelector('h1');
 titulo.remove();
 body.appendChild(ancora);*/
 
-const body = document.querySelector('body');
+
+/*const body = document.querySelector('body');
 const li = document.createElement('ul');
 const item1 = document.createElement('li');
 const item2 = document.createElement('li');
@@ -28,7 +29,20 @@ item3.textContent = 'item-3';
 li.append(item1);
 li.append(item2);
 li.append(item3);
-body.append(li);
+body.append(li);*/
+
+
+/*const body = document.querySelector('body');
+const p = document.createElement('p');
+p.textContent = "Meu parágrafo";
+p.style.color = 'white';
+body.style.backgroundColor = '#000';
+body.prepend(p);*/
+
+
+
+
+
 
 
 

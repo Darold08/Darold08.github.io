@@ -1,0 +1,35 @@
+.sobre_mim{
+  height: 200px;
+  width: 300px;
+  margin-top: -420px;
+  margin-left: 30px;
+  padding: 10px;
+  
+ 
+}
+
+.dir {
+  margin-left: 380px; 
+  width: 300px;
+  margin-top: -450px; 
+  padding: 10px;
+  border-radius: 15px;
+  background-color: rgb(131, 117, 143); 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.8);
+  color: #fff; 
+  height: auto;
+  margin-top: -400px;
+
+
+  
+}
+
+.esq{
+ 
+padding: 10px; 
+border-radius: 5px;
+background-color: rgb(131, 117, 143);
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.8);
+border-radius: 15px;
+
+}

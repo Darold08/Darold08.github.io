@@ -143,7 +143,7 @@ export default function Agendar() {
                         Agendar
                     </button>
                 </div>
-                {/* Pop-up de confirmação */}
+                {/* Pop-up de confirmação*/}
                 {showPopup && (
                     <div className={styles.popupSombra} onClick={fecharPopUp}>
                         <div className={styles.popup} onClick={(e) => e.stopPropagation()}>

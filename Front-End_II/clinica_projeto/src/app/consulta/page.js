@@ -133,7 +133,7 @@ export default function Consultas() {
                                     className={styles.pesquisaInput} 
                                     value={pesquiPaciente} 
                                     onChange={(e) => pesquisaMudancaPaciente(e.target.value)}
-                                    placeholder="Digite o nome do paciente" 
+                                    placeholder="Digite o nome do paciente " 
                                     onInput={(e) => e.target.value = e.target.value.replace(/['"]/g, '')}
                                 /> 
 

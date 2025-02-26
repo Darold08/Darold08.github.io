@@ -1,0 +1,66 @@
+.divHome {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  justify-self: center;
+  align-self: center;
+  text-align: center;
+  align-items: center;
+  margin: 4%;
+}
+
+.titulo {
+  color: white;
+  font-size: 32px;
+  margin-bottom: 5%;
+  border: 3px solid #460724;
+  padding: 15px;
+  background-color: #460724;
+}
+
+.divParag {
+  width: 80%;
+}
+
+.parag {
+  font-size: 20px;
+  margin-bottom: 3%;
+  line-height: 35px;
+  color: rgb(255, 255, 255);
+}
+
+.agendarBt {
+  background-color: #460724;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  font-size: 18px;
+  cursor: pointer;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.agendarBt:hover {
+  transform: scale(1.15);
+}
+
+@media (max-width: 600px) {
+  .parag {
+    font-size: 18px;
+  }
+  .titulo {
+    font-size: 26px;
+  }
+}
+
+@media (max-width: 300px) {
+  .parag {
+    font-size: 14px;
+  }
+  .titulo {
+    font-size: 22px;
+  }
+}
